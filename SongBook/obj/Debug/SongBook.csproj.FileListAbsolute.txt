@@ -1,0 +1,264 @@
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\SongBook.dll.config
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csc.exe
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csc.exe.config
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csc.rsp
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csi.exe
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csi.exe.config
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\csi.rsp
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.AppContext.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Console.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\vbc.exe
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\vbc.exe.config
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\vbc.rsp
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Antlr3.Runtime.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Newtonsoft.Json.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Helpers.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Mvc.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Optimization.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\WebGrease.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Helpers.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Mvc.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Optimization.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Newtonsoft.Json.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Antlr3.Runtime.pdb
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\obj\Debug\SongBook.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\SongBook\SongBook\obj\Debug\SongBook.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\SongBook\SongBook\obj\Debug\SongBook.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\SongBook\SongBook\obj\Debug\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\obj\Debug\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\EntityFramework.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\EntityFramework.xml
+C:\Users\Mariusz\source\repos\SongBook\SongBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\SongBook.dll.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csc.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csc.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csc.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csi.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csi.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\csi.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.AppContext.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Console.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\vbc.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\vbc.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\vbc.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Antlr3.Runtime.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\EntityFramework.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Newtonsoft.Json.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Helpers.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Mvc.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Optimization.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\WebGrease.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\EntityFramework.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Helpers.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Mvc.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Optimization.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Newtonsoft.Json.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Antlr3.Runtime.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\obj\Debug\SongBook.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\obj\Debug\SongBook.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\obj\Debug\SongBook.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\obj\Debug\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2)\SongBook\obj\Debug\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\SongBook.dll.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csc.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csc.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csc.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csi.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csi.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\csi.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.AppContext.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Console.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\vbc.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\vbc.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\vbc.rsp
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Antlr3.Runtime.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\EntityFramework.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Newtonsoft.Json.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Helpers.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Mvc.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Optimization.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\WebGrease.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\EntityFramework.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Helpers.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Mvc.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Optimization.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Newtonsoft.Json.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Antlr3.Runtime.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.csprojAssemblyReference.cache
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.dll
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.pdb
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.Migrations.InitialCreate.resources
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.csproj.GenerateResource.cache
+C:\Users\Mariusz\source\repos\SongBook - Kopia (2) - Kopia\SongBook\obj\Debug\SongBook.Migrations.DataAnnotations.resources
